@@ -33,13 +33,6 @@
        $ cd IGS
        $ git pull
        $ python whoami-ig.py
-# Menu Login
-![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221207_172904.jpg)
-# Menu Utama
-![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221207_172838.jpg)
-
-# Hasil Dari Script META-INSTA
-![img](https://github.com/XXX-SIGA/META-INSTA/blob/main/IMG_20221207_174348.jpg)
 
 <h3 align="left">Klik Dibawah Sini Untuk informasi Contact:</h3>
 
